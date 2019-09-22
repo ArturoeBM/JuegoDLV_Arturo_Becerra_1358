@@ -105,7 +105,4 @@ def main():
             save_data2.pop()
             pass
         pass 
-
-    
-    
 main()
